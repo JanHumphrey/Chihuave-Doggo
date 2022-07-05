@@ -1,10 +1,10 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 587621FE
-/// @DnDArgument : "imageind" "1"
+/// @DnDArgument : "imageind" "2"
 /// @DnDArgument : "spriteind" "sprite_index"
 sprite_index = sprite_index;
-image_index = 1;
+image_index = 2;
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
