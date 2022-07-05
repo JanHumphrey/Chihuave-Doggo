@@ -101,4 +101,12 @@ if(getstar == false)
 			image_index = 0;
 			break;
 	}
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 445A7ED8
+	/// @DnDParent : 3BD70794
+	/// @DnDArgument : "soundid" "snd_cat_rescue"
+	/// @DnDSaveInfo : "soundid" "snd_cat_rescue"
+	audio_play_sound(snd_cat_rescue, 0, 0);
 }
