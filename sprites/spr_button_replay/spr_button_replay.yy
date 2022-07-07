@@ -38,7 +38,7 @@
     "spriteId": {"name":"spr_button_replay","path":"sprites/spr_button_replay/spr_button_replay.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 0.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

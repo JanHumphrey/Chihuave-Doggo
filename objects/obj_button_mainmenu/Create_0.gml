@@ -6,6 +6,6 @@ event_inherited();
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 680C01DD
-/// @DnDArgument : "expr" ""Exit""
+/// @DnDArgument : "expr" ""Main Menu""
 /// @DnDArgument : "var" "text"
-text = "Exit";
+text = "Main Menu";
