@@ -11,9 +11,9 @@ if(y > room_height + 50)
 	/// @DnDHash : 50708CA2
 	/// @DnDParent : 39634224
 	/// @DnDArgument : "sequenceid" "seq_game_over"
-	/// @DnDArgument : "layer" ""HUD""
+	/// @DnDArgument : "layer" ""Player""
 	/// @DnDSaveInfo : "sequenceid" "seq_game_over"
-	variable = layer_sequence_create("HUD", 0, 0, seq_game_over);
+	variable = layer_sequence_create("Player", 0, 0, seq_game_over);
 
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1

@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "",
-  "duration": 0.0,
+  "soundFile": "snd_intro.mp3",
+  "duration": 0.84,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Sound11",
+  "name": "snd_intro",
   "tags": [],
   "resourceType": "GMSound",
 }
