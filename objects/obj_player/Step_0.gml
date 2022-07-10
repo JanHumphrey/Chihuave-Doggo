@@ -1,5 +1,35 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
+/// @DnDHash : 771ECE9B
+/// @DnDArgument : "var" "hspeed"
+/// @DnDArgument : "op" "1"
+if(hspeed < 0)
+{
+	/// @DnDAction : YoYo Games.Movement.Set_Speed
+	/// @DnDVersion : 1
+	/// @DnDHash : 26C4153D
+	/// @DnDParent : 771ECE9B
+	/// @DnDArgument : "speed" "min(0, hspeed + 1)"
+	/// @DnDArgument : "type" "1"
+	hspeed = min(0, hspeed + 1);
+}
+
+/// @DnDAction : YoYo Games.Common.Else
+/// @DnDVersion : 1
+/// @DnDHash : 57E36E52
+else
+{
+	/// @DnDAction : YoYo Games.Movement.Set_Speed
+	/// @DnDVersion : 1
+	/// @DnDHash : 6E7AA740
+	/// @DnDParent : 57E36E52
+	/// @DnDArgument : "speed" "max(0, hspeed - 1)"
+	/// @DnDArgument : "type" "1"
+	hspeed = max(0, hspeed - 1);
+}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
 /// @DnDHash : 4014D778
 /// @DnDArgument : "var" "y"
 /// @DnDArgument : "op" "1"

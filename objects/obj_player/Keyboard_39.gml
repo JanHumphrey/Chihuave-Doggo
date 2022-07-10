@@ -1,12 +1,5 @@
-/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+/// @DnDAction : YoYo Games.Instances.Call_User_Event
 /// @DnDVersion : 1
-/// @DnDHash : 54057434
-/// @DnDArgument : "value" "15"
-/// @DnDArgument : "value_relative" "1"
-x += 15;
-
-/// @DnDAction : YoYo Games.Instances.Sprite_Scale
-/// @DnDVersion : 1
-/// @DnDHash : 300D9033
-image_xscale = 1;
-image_yscale = 1;
+/// @DnDHash : 41A3A6AB
+/// @DnDArgument : "event" "1"
+event_user(1);
