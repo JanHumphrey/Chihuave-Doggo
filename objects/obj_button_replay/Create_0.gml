@@ -6,6 +6,6 @@ event_inherited();
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4CEB1259
-/// @DnDArgument : "expr" ""Replay""
+/// @DnDArgument : "expr" ""Play Again""
 /// @DnDArgument : "var" "text"
-text = "Replay";
+text = "Play Again";
