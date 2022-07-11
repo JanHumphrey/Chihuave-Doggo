@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_player_defeated",
-    "path": "sprites/spr_player_defeated/spr_player_defeated.yy",
+    "name": "spr_player1_defeated",
+    "path": "sprites/spr_player1_defeated/spr_player1_defeated.yy",
   },
   "solid": false,
   "visible": true,
