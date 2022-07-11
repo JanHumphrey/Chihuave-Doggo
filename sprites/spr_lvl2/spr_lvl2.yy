@@ -35,7 +35,7 @@
     "spriteId": {"name":"spr_lvl2","path":"sprites/spr_lvl2/spr_lvl2.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 1.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

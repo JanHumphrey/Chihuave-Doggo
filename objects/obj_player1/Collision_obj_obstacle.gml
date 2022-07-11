@@ -40,3 +40,20 @@ if(vspeed > 0)
 	/// @DnDSaveInfo : "soundid" "snd_player_jump"
 	audio_play_sound(snd_player_jump, 0, 0);
 }
+
+/// @DnDAction : YoYo Games.Rooms.Get_Current_Room
+/// @DnDVersion : 1
+/// @DnDHash : 22B76F86
+/// @DnDArgument : "var" "room_now"
+/// @DnDArgument : "var_temp" "1"
+var room_now = room;
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 422596CE
+/// @DnDArgument : "var" "room_now"
+/// @DnDArgument : "value" "rm_game_lvl3"
+if(room_now == rm_game_lvl3)
+{
+
+}

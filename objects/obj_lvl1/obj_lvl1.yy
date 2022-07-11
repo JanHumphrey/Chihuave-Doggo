@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_lvl_parent",
+    "path": "objects/obj_lvl_parent/obj_lvl_parent.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -24,7 +27,9 @@
     {"isDnD":true,"eventNum":0,"eventType":13,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"goto_room_id","path":"objects/obj_lvl_parent/obj_lvl_parent.yy",},"objectId":{"name":"obj_lvl_parent","path":"objects/obj_lvl_parent/obj_lvl_parent.yy",},"value":"rm_game_lvl1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
