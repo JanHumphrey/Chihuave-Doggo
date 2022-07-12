@@ -84,9 +84,9 @@ switch(l326BDF62_0)
 				/// @DnDHash : 763B67CB
 				/// @DnDParent : 0DDBF6F0
 				/// @DnDArgument : "x" "new_x"
-				/// @DnDArgument : "y" "-450"
+				/// @DnDArgument : "y" "-150"
 				x = new_x;
-				y = -450;
+				y = -150;
 			}
 		
 			/// @DnDAction : YoYo Games.Common.Else
@@ -169,15 +169,6 @@ switch(l326BDF62_0)
 				/// @DnDParent : 77A12A2C
 				/// @DnDArgument : "const" "1"
 				case 1:
-					/// @DnDAction : YoYo Games.Random.Get_Random_Number
-					/// @DnDVersion : 1
-					/// @DnDHash : 1C60091F
-					/// @DnDDisabled : 1
-					/// @DnDParent : 2BD95734
-					/// @DnDArgument : "var" "fall_chance"
-					/// @DnDArgument : "var_temp" "1"
-				
-				
 					/// @DnDAction : YoYo Games.Instances.Get_Instance_Var
 					/// @DnDVersion : 1
 					/// @DnDHash : 24AF2427
