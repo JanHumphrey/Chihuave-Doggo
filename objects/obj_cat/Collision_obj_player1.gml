@@ -35,15 +35,17 @@ if(getstar == false)
 	/// @DnDHash : 52CFA647
 	/// @DnDParent : 3BD70794
 	/// @DnDArgument : "force" "0.5"
-	gravity = 0.5;
+	/// @DnDArgument : "force_relative" "1"
+	gravity += 0.5;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 	/// @DnDVersion : 1
 	/// @DnDHash : 284C0EBE
 	/// @DnDParent : 3BD70794
 	/// @DnDArgument : "value" "obj_player1.depth - 10"
+	/// @DnDArgument : "value_relative" "1"
 	/// @DnDArgument : "instvar" "9"
-	depth = obj_player1.depth - 10;
+	depth += obj_player1.depth - 10;
 
 	/// @DnDAction : YoYo Games.Switch.Switch
 	/// @DnDVersion : 1

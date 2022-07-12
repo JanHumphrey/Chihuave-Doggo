@@ -47,7 +47,7 @@ if(getstar == false)
 
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1
-	/// @DnDHash : 7C510770
+	/// @DnDHash : 050195AC
 	/// @DnDParent : 3BD70794
 	/// @DnDArgument : "spriteind" "spr_lion_star"
 	/// @DnDSaveInfo : "spriteind" "spr_lion_star"
