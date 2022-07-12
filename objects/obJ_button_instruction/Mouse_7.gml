@@ -1,6 +1,5 @@
-/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDAction : YoYo Games.Instances.Call_User_Event
 /// @DnDVersion : 1
-/// @DnDHash : 0F278B5F
-/// @DnDArgument : "soundid" "snd_button"
-/// @DnDSaveInfo : "soundid" "snd_button"
-audio_play_sound(snd_button, 0, 0);
+/// @DnDHash : 2B23356F
+/// @DnDArgument : "event" "1"
+event_user(1);
