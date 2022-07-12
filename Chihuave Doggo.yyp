@@ -28,6 +28,7 @@
     {"id":{"name":"spr_instructions_background_2","path":"sprites/spr_instructions_background_2/spr_instructions_background_2.yy",},"order":1,},
     {"id":{"name":"spr_menu_background","path":"sprites/spr_menu_background/spr_menu_background.yy",},"order":3,},
     {"id":{"name":"rm_game_lvl4","path":"rooms/rm_game_lvl4/rm_game_lvl4.yy",},"order":11,},
+    {"id":{"name":"sampleee","path":"objects/sampleee/sampleee.yy",},"order":33,},
     {"id":{"name":"spr_home_button","path":"sprites/spr_home_button/spr_home_button.yy",},"order":3,},
     {"id":{"name":"spr_cat_1","path":"sprites/spr_cat_1/spr_cat_1.yy",},"order":0,},
     {"id":{"name":"spr_instructions_background_1","path":"sprites/spr_instructions_background_1/spr_instructions_background_1.yy",},"order":0,},
